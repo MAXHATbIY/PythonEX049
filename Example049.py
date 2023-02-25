@@ -14,9 +14,6 @@
 # не должна быть линейной
 
 
-# with open("phonebook.txt", "r", encoding="UTF-8") as saved_info:
-#     for line in saved_info:
-#         print(line)
 
 def choose_action(phonebook):
     while True:
